@@ -1,0 +1,13 @@
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\bin\Debug\netstandard2.0\Customization.deps.json
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\bin\Debug\netstandard2.0\Customization.dll
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\bin\Debug\netstandard2.0\ref\Customization.dll
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\bin\Debug\netstandard2.0\Customization.pdb
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\Customization.csprojAssemblyReference.cache
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\Customization.AssemblyInfoInputs.cache
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\Customization.AssemblyInfo.cs
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\Customization.dll
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\ref\Customization.dll
+C:\Users\Ambar Cuevas\Desktop\Customization\Customization\Customization\obj\Debug\netstandard2.0\Customization.pdb

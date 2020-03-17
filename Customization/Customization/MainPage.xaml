@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             xmlns:local="clr-namespace:Customization.Controls"
+             xmlns:local1="clr-namespace:Customization.Effects"
+             NavigationPage.HasNavigationBar="True"
+             mc:Ignorable="d" 
+             x:Class="Customization.MainPage">
+
+    <StackLayout>
+
+        <Label x:Name="orientationLabel" Text=""
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Entry Placeholder="Focused effect tester"
+               HorizontalOptions="CenterAndExpand">
+            <Entry.Effects>
+                <local1:FocusEffect />
+            </Entry.Effects>
+        </Entry>
+
+        <local:EntryBackgroundColor Placeholder="Entry background color renderer tester"/>
+
+        <Entry Placeholder="iOS platform specific tester" 
+               ios:Entry.AdjustsFontSizeToFitWidth="true"/>
+
+        <Button Text="Android platform specific tester"
+                CornerRadius="20"
+                android:Button.UseDefaultPadding="true"
+                android:Button.UseDefaultShadow="true">
+        </Button>
+
+    </StackLayout>
+
+</ContentPage>
